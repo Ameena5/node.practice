@@ -1,0 +1,5 @@
+var a=require("./index")
+console.log(a.add(10,20))
+console.log(a.sub(80,20))
+console.log(a.div(40,20))
+console.log(a.mul(10,20))
